@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">I am an undergraduate pursuing my Bachelors in Computer Science Engineering. I am an enthusiastic learner with creative insights and I never shy away from trying out new things and implementing them. I enjoy solving puzzles and taking part in coding competitions.</h3>
+<h3 align="center">I am a pre-final year student at LNCT Bhopal. I enjoy solving logical and challenging problems that require abstract thinking. I have an avid interest in programming, and I am well-versed in basic and advanced data structures and algorithm alos I am learnig full stack development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush449&label=Profile%20views&color=0e75b6&style=flat" alt="ayush449" /> </p>
 
