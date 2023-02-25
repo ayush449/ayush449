@@ -1,27 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">Software engineer</h3>
+# Hi, I'm Ayush 👋🏾 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush449&label=Profile%20views&color=0e75b6&style=flat" alt="ayush449" /> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ayushku31317192?style=social)](https://twitter.com/ayushku31317192)
+[![Linkedin: Ayush](https://img.shields.io/badge/-ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-kumar-483500189/)](https://www.linkedin.com/in/ayush-kumar-483500189/)
+![GitHub followers](https://img.shields.io/github/followers/ayush449?style=socialocial)
 
-<p align="left"> <a href="https://twitter.com/ayushku31317192" target="blank"><img src="https://img.shields.io/twitter/follow/ayushku31317192?logo=twitter&style=for-the-badge" alt="ayushku31317192" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush449&label=Profile%20views&color=0e75b6&style=flat" alt="ayush449" /> </p> 
 
-- 📫 How to reach me **Ayushtiwari1180@gmail.com**
+## 👨🏻‍💻 &nbsp;About Me
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+🎓 &nbsp;I'm currently studying Computer Science Engineering at Lakshmi Narain college of Technology, Bhopal.\
+💡 &nbsp;Some technologies I enjoy working with include  JavaScript, NodeJS and ExpressJS. Currently exploring ReactJs.\
+🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
+✉️ &nbsp;You can shoot me an email at Ayushtiwari1180@gmail.com! I'll try to respond as soon as I can.
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayushku31317192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushku31317192" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush-kumar-483500189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-483500189" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush17435" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushtiwari1180" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ayugg1180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ayugg1180" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayugg1180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayugg1180" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ayushtiwari1180" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(ayushtiwari1180/profile)" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush449&show_icons=true&locale=en" alt="ayush449" /></p>
+
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/ayush-kumar-483500189/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Struggling on <a href="https://leetcode.com/dontcallmeayush07/">LeetCode</a> 😍
+- Practising on <a href="https://codeforces.com/profile/Aghori__">Codeforces</a> 🙃
+- Sharing updates on <a href="https://www.linkedin.com/in/ayush-kumar-483500189/">LinkedIn</a> 😇
+
+
