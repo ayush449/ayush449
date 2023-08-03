@@ -10,7 +10,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I'm currently studying Computer Science Engineering at Lakshmi Narain college of Technology, Bhopal.\
+🎓 &nbsp;I have completed my education studying Computer Science Engineering at Lakshmi Narain college of Technology, Bhopal.\
 💡 &nbsp;Some technologies I enjoy working with include  JavaScript, NodeJS and ExpressJS. Currently exploring ReactJs.\
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at Ayushtiwari1180@gmail.com! I'll try to respond as soon as I can.
